@@ -7,43 +7,69 @@ header {
     color: #777777;
     background-color: #ffffff;
     /* border-bottom: 8px solid #7c7c7c; */
-    border-bottom: 8px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 #name {
-    margin-left: 260px;
-    width: auto;
-    padding: 19px;
+    margin-left: 261px;
+    width: 175px;
+    padding: 20px;
     margin-top: -1px;
     text-align: center;
     color: #ffffff;
     font-weight: bold;
+    font-size: 30px;
 
     border: 1px solid #cccccc;
     /* background-color: #0072bb; */
     background-color: #4aaaa5;
     float: left;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 #index, a:visited {
-    margin-right: 5px;
-    padding-bottom: 15px;
-    width: 60px;
+    margin-right: 2px;
+    margin-bottom: 10px;
+    padding-bottom: 1px;
+    width: 70px;
     margin-top: 20px;
     text-align: center;
     /* color: white; */
     color: #777777;
     font-weight: bold;
+    font-size: 15px;
 
     border: #ffffff;
+    border-right: 1px solid #cccccc;
     /* background-color: #0072bb; */
     background-color: #ffffff;
     float: right;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 #portfolio, a:visited {
-    margin-right: 10px;
+    margin-right: 2px;
+    margin-bottom: 10px;
+    padding-bottom: 1px;
+    width: 80px;
+    margin-top: 20px;
+    text-align: center;
+    /* color: white; */
+    color: #777777;
+    font-weight: bold;
+    font-size: 15px;
+
+    border: #ffffff;
+    border-right: 1px solid #cccccc;
+    /* background-color: #0072bb; */
+    background-color: #ffffff;
+    float: right;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+#contact, a:visited {
+    margin-right: 280px;
     padding-bottom: 15px;
     width: 70px;
     margin-top: 20px;
@@ -51,50 +77,40 @@ header {
     /* color: white; */
     color: #777777;
     font-weight: bold;
+    font-size: 15px;
 
     border: #ffffff;
     /* background-color: #0072bb; */
     background-color: #ffffff;
     float: right;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
-#contact, a:visited {
-    margin-right: 280px;
-    padding-bottom: 15px;
-    width: 60px;
-    margin-top: 20px;
-    text-align: center;
-    /* color: white; */
-    color: #777777;
-    font-weight: bold;
-
-    border: #ffffff;
-    /* background-color: #0072bb; */
-    background-color: #ffffff;
-    float: right;
-}
 
 a:hover {
     /* color: #0072bb; */
     color: #4aaaa5;
   }
 
-#Button {
-}
+    a:focus {
+        color: #cccccc;
+    }
+
+/*---------------------------------------------------------------------------------------------------------------------*/
 
 body {
     /* background-image: url("https://dslv9ilpbe7p1.cloudfront.net/5TS-tDqNKvgrJa3o0d2qzQ_store_banner_image.jpeg"); */
-    background-image: url("https://www.welovesolo.com/wp-content/uploads/2014/12/p17ughc5sr1vvp19e11cbfdav1mru5-details.jpg");
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
     background-color: #cccccc;
 }
-
 
 
 section {
     margin: 0 auto;
     margin-top: 120px;
-    width: 960px;
-    padding-bottom: 50px auto;
+    width: 920px;
+    padding: 20px;
+    padding-bottom: 20px;
     /* color: #3382cc; */
     color: #777777;
     background-color: #ffffff;
@@ -104,15 +120,68 @@ section {
 }
 
 .about-me {
+    margin-left: 0px;
+    margin-right: 900px;
+    margin-top: 0px;
+    width: 50pc;
     color: #4aaaa5;
+    position: static;
+    float: left;
 }
 
-.image {
+.image-1 {
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top: 10px;
+    position: static;
+    float: left;
+    display: inline;
 }
 
 .text-1 {
+    margin-top: 40px;
+
+    padding-bottom: 20px;
     color: #777777;
+    position: relative;
 }
+
+.name {
+    color: #777777;
+    width: 900px;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.email {
+    color: #777777;
+    width: 900px;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.message {
+    color: #777777;
+    width: 900px;
+    padding-bottom: 200px;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+#button {
+    margin-left: 0px;
+    margin-right: 900px;
+    margin-top: 5px;
+    padding: 5px;
+    width: 70px;
+    position: static;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    border: 1px solid #cccccc;
+}
+
 
 footer {
     position: absolute;
