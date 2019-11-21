@@ -1,22 +1,35 @@
-# basic-portfolio
+# Basic Portfolio
+
+self note: fill out description
+include screenshots
+
+evidence of tools used
+100% clear what was used
+
+## Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Deployed Link
+
+* [See Live Site](https://casey-moldavon.github.io/basic-portfolio/)
 
 
-# basic-portfolio
+## Authors
 
-```html
-<div class="homework">
-<h2>page-1</h2>
-    <p>start with About Me section"</p>
+* **YOUR NAME** 
 
-    <img src="https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-SFC-FSF-FT-11-2019-U-C/raw/master/course-content/01-html-git-css/homework/Assets/Images/portfolio-about-me.png" alt="homework">
+- [Link to Portfolio Site](https://casey-moldavon.github.io/basic-portfolio/)
+- [Link to Github](https://github.com/casey-moldavon)
+- [Link to LinkedIn](https://www.linkedin.com/in/casey-moldavon-442a1761/)
 
+## License
 
-    <p>
-<h2>page-2</h2>
-    <img src="https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-SFC-FSF-FT-11-2019-U-C/raw/master/course-content/01-html-git-css/homework/Assets/Images/portfolio-contact.png" alt="homework">
+This project is licensed under the MIT License 
 
+## Acknowledgments
 
-<h2>page-3</h2>
-    <img src="https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-SFC-FSF-FT-11-2019-U-C/raw/master/course-content/01-html-git-css/homework/Assets/Images/portfolio-gallery.png" alt="homework">
-
-```
+* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
+* Inspiration
+* etc
