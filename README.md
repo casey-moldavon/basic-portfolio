@@ -7,14 +7,14 @@ The greatest struggle for this portfolio was the positioning both of/in the Head
 
 For a little more Detail on the challenges mentioned above, i've attached a few images to illustrate what gave me the most trouble...
 
-* [img](assets/images/page-1-readme)
+* ![Image description](assets/images/page-1-readme)
 
 Above, you'll notice some red arrows pointing to different parts of the header. These parts proved especially difficult to position as they would consistently move with other elements on the page. I also found that each would have to be its own element which further challenged the process of positioning.
 
 The Blue arrows are part of the main Section that gave me trouble. While items of the Header proved a challenge for constantly changing in positon, these elements were difficult in that i could hardly position them at all as most attempts let to zero reaction. This was where the long hours of practice and playing around with different tools eventually came in handy.
 
 
-* [img](assets/images/page-3-readme)
+* ![Image description](assets/images/page-3-readme)
 
 In this image above, the purple arrows are referring to text boxes that i encountered a great deal of trouble with. Initially, i consulted Google but the result led to an odd placement of the elements within the Section and a random teal box-like object appearing right in the center of the page. The cause of this object is still unknown to me as it disappeared once the proper techniques were used.
 
