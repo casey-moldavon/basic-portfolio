@@ -14,6 +14,11 @@ Above, you'll notice some red arrows pointing to different parts of the header. 
 The Blue arrows are part of the main Section that gave me trouble. While items of the Header proved a challenge for constantly changing in positon, these elements were difficult in that i could hardly position them at all as most attempts let to zero reaction. This was where the long hours of practice and playing around with different tools eventually came in handy.
 
 
+* [img](assets/images/page-3-readme)
+
+In this image above, the purple arrows are referring to text boxes that i encountered a great deal of trouble with. Initially, i consulted Google but the result led to an odd placement of the elements within the Section and a random teal box-like object appearing right in the center of the page. The cause of this object is still unknown to me as it disappeared once the proper techniques were used.
+
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
