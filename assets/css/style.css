@@ -303,18 +303,17 @@ a:hover {
     position: relative;
     float: left;
 }
-#i-6 {
+#i-2 {
     width: 200px;
     height: 50px;
-    margin: 10px;
-    margin-right: 300px;
-    
-    position: absolute;
-    float: left;
-
+    top: 310px;
+    left: 410px;
     z-index: 1;
+    position: absolute;
+    text-align: center;
     color: #ffffff;
     background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 
@@ -327,6 +326,20 @@ a:hover {
     position: relative;
     float: left;
 }
+#i-3 {
+    width: 200px;
+    height: 50px;
+    top: 480px;
+    left: 410px;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
 .image-4 {
     width: 200px;
     height: 150px;
@@ -334,6 +347,20 @@ a:hover {
     position: relative;
     float: left;
 }
+#i-4 {
+    width: 200px;
+    height: 50px;
+    top: 650px;
+    left: 410px;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
 .image-5 {
     width: 200px;
     height: 150px;
@@ -342,6 +369,20 @@ a:hover {
     position: relative;
     float: left;
 }
+#i-5 {
+    width: 200px;
+    height: 50px;
+    top: 310px;
+    right: 670px;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
 .image-6 {
     width: 200px;
     height: 150px;
@@ -350,6 +391,19 @@ a:hover {
     position: relative;
     float: left;
 }
+#i-6 {
+    width: 200px;
+    height: 50px;
+    top: 480px;
+    right: 670px;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
 /* ---------------------------------------------------------------------------- */
 footer {
     position: absolute;
