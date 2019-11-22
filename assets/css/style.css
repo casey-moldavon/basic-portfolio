@@ -107,7 +107,7 @@ body {
 
 section {
     margin: 0 auto;
-    margin-top: 120px;
+    margin-top: 100px;
     width: 920px;
     padding: 20px;
     padding-bottom: 20px;
@@ -123,10 +123,12 @@ section {
     margin-left: 0px;
     margin-right: 900px;
     margin-top: 0px;
-    width: 50pc;
+    margin-bottom: 20px;
+    width: 920px;
     color: #4aaaa5;
     position: static;
     float: left;
+    border-bottom: 2px solid #cccccc;
 }
 
 .image-1 {
@@ -184,7 +186,7 @@ section {
 
 .section-c {
     margin: 0 auto;
-    margin-top: 120px;
+    margin-top: 100px;
     width: 920px;
     padding: 20px;
     padding-bottom: 20px;
@@ -197,6 +199,18 @@ section {
 }
 
 /* ------------portfolio page-------------------------------- */
+
+.about-me-p {
+    margin-left: 0px;
+    margin-right: 900px;
+    margin-top: 0px;
+    width: 700px;
+    color: #4aaaa5;
+    position: static;
+    float: left;
+    border-bottom: 2px solid #cccccc;
+}
+
 
 #name-p {
     margin-left: 371px;
@@ -284,7 +298,7 @@ a:hover {
 
 .section-p {
     margin: 0 auto;
-    margin-top: 120px;
+    margin-top: 100px;
     width: 700px;
     padding: 20px;
     padding-bottom: 600px;
@@ -296,6 +310,7 @@ a:hover {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+
 .image-2 {
     width: 200px;
     height: 150px;
@@ -306,7 +321,7 @@ a:hover {
 #i-2 {
     width: 200px;
     height: 50px;
-    top: 310px;
+    top: 290px;
     left: 410px;
     z-index: 1;
     position: absolute;
@@ -329,7 +344,7 @@ a:hover {
 #i-3 {
     width: 200px;
     height: 50px;
-    top: 480px;
+    top: 460px;
     left: 410px;
     z-index: 1;
     position: absolute;
@@ -350,7 +365,7 @@ a:hover {
 #i-4 {
     width: 200px;
     height: 50px;
-    top: 650px;
+    top: 630px;
     left: 410px;
     z-index: 1;
     position: absolute;
@@ -372,7 +387,7 @@ a:hover {
 #i-5 {
     width: 200px;
     height: 50px;
-    top: 310px;
+    top: 290px;
     right: 670px;
     z-index: 1;
     position: absolute;
@@ -394,7 +409,7 @@ a:hover {
 #i-6 {
     width: 200px;
     height: 50px;
-    top: 480px;
+    top: 460px;
     right: 670px;
     z-index: 1;
     position: absolute;
