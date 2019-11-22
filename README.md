@@ -5,6 +5,15 @@ This small project was no small feat. Being my first class homework assignment i
 The greatest struggle for this portfolio was the positioning both of/in the Header and the center Sections of each page (along with all of their content). Manipulating different elements within the space proved to be the greatest challenge as I didn't quote grasp the concepts of float, position: static, position: absolute or position: relative. I'd move one element only to find that others had either moved along with it or disappeared behind it. It was quite a challenge. Fortunately, with a great deal of practice, lessons from the course instructor and some helpful tips from a classmate, I mannaged to piece everything together to my liking. I can safely say that i'm a lot more comfortable with HTML/CSS right meow.
 
 
+For a little more Detail on the challenges mentioned above, i've attached a few images to illustrate what gave me the most trouble...
+
+* [img](assets/images/page-1-readme)
+
+Above, you'll notice some red arrows pointing to different parts of the header. These parts proved especially difficult to position as they would consistently move with other elements on the page. I also found that each would have to be its own element which further challenged the process of positioning.
+
+The Blue arrows are part of the main Section that gave me trouble. While items of the Header proved a challenge for constantly changing in positon, these elements were difficult in that i could hardly position them at all as most attempts let to zero reaction. This was where the long hours of practice and playing around with different tools eventually came in handy.
+
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
