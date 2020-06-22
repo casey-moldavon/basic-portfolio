@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     position: absolute;
     margin: 0;
@@ -6,23 +11,20 @@ header {
     padding-bottom: 20px auto;
     color: #777777;
     background-color: #ffffff;
-    /* border-bottom: 8px solid #7c7c7c; */
     border-bottom: 2px solid #cccccc;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 #name {
-    margin-left: 261px;
+    margin-left: 20%;
     width: 175px;
-    padding: 20px;
+    height: 100%;
     margin-top: -1px;
     text-align: center;
     color: #ffffff;
     font-weight: bold;
     font-size: 30px;
 
-    border: 1px solid #cccccc;
-    /* background-color: #0072bb; */
     background-color: #4aaaa5;
     float: left;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
@@ -35,14 +37,12 @@ header {
     width: 70px;
     margin-top: 20px;
     text-align: center;
-    /* color: white; */
     color: #777777;
     font-weight: bold;
     font-size: 15px;
 
     border: #ffffff;
     border-right: 1px solid #cccccc;
-    /* background-color: #0072bb; */
     background-color: #ffffff;
     float: right;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
@@ -55,14 +55,12 @@ header {
     width: 80px;
     margin-top: 20px;
     text-align: center;
-    /* color: white; */
     color: #777777;
     font-weight: bold;
     font-size: 15px;
 
     border: #ffffff;
     border-right: 1px solid #cccccc;
-    /* background-color: #0072bb; */
     background-color: #ffffff;
     float: right;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
@@ -74,13 +72,11 @@ header {
     width: 70px;
     margin-top: 20px;
     text-align: center;
-    /* color: white; */
     color: #777777;
     font-weight: bold;
     font-size: 15px;
 
     border: #ffffff;
-    /* background-color: #0072bb; */
     background-color: #ffffff;
     float: right;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
@@ -88,7 +84,6 @@ header {
 
 
 a:hover {
-    /* color: #0072bb; */
     color: #4aaaa5;
   }
 
@@ -99,7 +94,6 @@ a:hover {
 /*---------------------------------------------------------------------------------------------------------------------*/
 
 body {
-    /* background-image: url("https://dslv9ilpbe7p1.cloudfront.net/5TS-tDqNKvgrJa3o0d2qzQ_store_banner_image.jpeg"); */
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
     background-color: #cccccc;
 }
@@ -111,10 +105,8 @@ section {
     width: 920px;
     padding: 20px;
     padding-bottom: 20px;
-    /* color: #3382cc; */
     color: #777777;
     background-color: #ffffff;
-    /* border: 1px solid #7c7c7c; */
     border: 1px solid #dddddd;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
@@ -134,9 +126,7 @@ section {
 .image-1 {
     margin-left: 0px;
     margin-right: 20px;
-    margin-top: 10px;
     position: static;
-    float: left;
     display: inline;
 }
 
@@ -190,105 +180,15 @@ section {
     width: 920px;
     padding: 20px;
     padding-bottom: 20px;
-    /* color: #3382cc; */
     color: #777777;
     background-color: #ffffff;
-    /* border: 1px solid #7c7c7c; */
     border: 1px solid #dddddd;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 /* ------------portfolio page-------------------------------- */
 
-.about-me-p {
-    margin-left: 0px;
-    margin-right: 900px;
-    margin-top: 0px;
-    width: 700px;
-    color: #4aaaa5;
-    position: static;
-    float: left;
-    border-bottom: 2px solid #cccccc;
-}
-
-
-#name-p {
-    margin-left: 371px;
-    width: 175px;
-    padding: 20px;
-    margin-top: -1px;
-    text-align: center;
-    color: #ffffff;
-    font-weight: bold;
-    font-size: 30px;
-
-    border: 1px solid #cccccc;
-    /* background-color: #0072bb; */
-    background-color: #4aaaa5;
-    float: left;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
-#index-p, a:visited {
-    margin-right: 2px;
-    margin-bottom: 10px;
-    padding-bottom: 1px;
-    width: 70px;
-    margin-top: 20px;
-    text-align: center;
-    /* color: white; */
-    color: #777777;
-    font-weight: bold;
-    font-size: 15px;
-
-    border: #ffffff;
-    border-right: 1px solid #cccccc;
-    /* background-color: #0072bb; */
-    background-color: #ffffff;
-    float: right;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
-#portfolio-p, a:visited {
-    margin-right: 2px;
-    margin-bottom: 10px;
-    padding-bottom: 1px;
-    width: 80px;
-    margin-top: 20px;
-    text-align: center;
-    /* color: white; */
-    color: #777777;
-    font-weight: bold;
-    font-size: 15px;
-
-    border: #ffffff;
-    border-right: 1px solid #cccccc;
-    /* background-color: #0072bb; */
-    background-color: #ffffff;
-    float: right;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
-#contact-p, a:visited {
-    margin-right: 365px;
-    padding-bottom: 15px;
-    width: 70px;
-    margin-top: 20px;
-    text-align: center;
-    /* color: white; */
-    color: #777777;
-    font-weight: bold;
-    font-size: 15px;
-
-    border: #ffffff;
-    /* background-color: #0072bb; */
-    background-color: #ffffff;
-    float: right;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
 a:hover {
-    /* color: #0072bb; */
     color: #4aaaa5;
   }
 
@@ -298,126 +198,41 @@ a:hover {
 
 .section-p {
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 5%;
     width: 700px;
-    padding: 20px;
-    padding-bottom: 600px;
-    /* color: #3382cc; */
+    padding-bottom: 620px;
     color: #777777;
     background-color: #ffffff;
-    /* border: 1px solid #7c7c7c; */
     border: 1px solid #dddddd;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-
-.image-2 {
-    width: 200px;
-    height: 150px;
-    margin: 10px;
-    position: relative;
+.image-div{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 250px;
     float: left;
+    /* border: 2px solid black; */
 }
-#i-2 {
-    width: 200px;
-    height: 50px;
-    top: 290px;
-    left: 410px;
+
+.image-tag {
+    margin: 0;
+    padding: 10px;
     z-index: 1;
-    position: absolute;
     text-align: center;
     color: #ffffff;
     background-color: #4aaaa5;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-
-
-.image-3 {
+.image {
     width: 200px;
     height: 150px;
-    margin: 10px;
-    margin-right: 200px;
-    position: relative;
-    float: left;
-}
-#i-3 {
-    width: 200px;
-    height: 50px;
-    top: 460px;
-    left: 410px;
-    z-index: 1;
-    position: absolute;
     text-align: center;
-    color: #ffffff;
-    background-color: #4aaaa5;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin: 0;
+    margin-left: 10%;
 }
 
-
-.image-4 {
-    width: 200px;
-    height: 150px;
-    margin: 10px;
-    position: relative;
-    float: left;
-}
-#i-4 {
-    width: 200px;
-    height: 50px;
-    top: 630px;
-    left: 410px;
-    z-index: 1;
-    position: absolute;
-    text-align: center;
-    color: #ffffff;
-    background-color: #4aaaa5;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
-
-.image-5 {
-    width: 200px;
-    height: 150px;
-    margin: 10px;
-    margin-right: 200px;
-    position: relative;
-    float: left;
-}
-#i-5 {
-    width: 200px;
-    height: 50px;
-    top: 290px;
-    right: 670px;
-    z-index: 1;
-    position: absolute;
-    text-align: center;
-    color: #ffffff;
-    background-color: #4aaaa5;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
-
-.image-6 {
-    width: 200px;
-    height: 150px;
-    margin: 10px;
-    margin-right: 400px;
-    position: relative;
-    float: left;
-}
-#i-6 {
-    width: 200px;
-    height: 50px;
-    top: 460px;
-    right: 670px;
-    z-index: 1;
-    position: absolute;
-    text-align: center;
-    color: #ffffff;
-    background-color: #4aaaa5;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
 
 /* ---------------------------------------------------------------------------- */
 footer {
@@ -430,6 +245,5 @@ footer {
     color: #ffffff;
     background-color: #666666;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    /* border-top: 8px solid #7c7c7c; */
     border-top: 8px solid #4aaaa5;
 }
