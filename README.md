@@ -19,6 +19,13 @@ The Blue arrows are part of the main Section that gave me trouble. While items o
 In this image above, the purple arrows are referring to text boxes that i encountered a great deal of trouble with. Initially, i consulted Google but the result led to an odd placement of the elements within the Section and a random teal box-like object appearing right in the center of the page. The cause of this object is still unknown to me as it disappeared once the proper techniques were used.
 
 
+
+
+# Later Changes
+
+Upon reviewing and re-visiting past projects, i've gone through this portfolio and modified the code to be more organized and simplified. I removed many of the unique and un-needed IDs as well as many of the incorrectly used classes, generalizing each image and tag on the portfolio page to be structured in the same way as opposed to individually (as it was before). Had this been a portfolio i was using professionally, this modification would make adding additional elements to the page a lot easier. I also modified the css for the header and footer to be properly positioned while also limiting the overall amount of code needed. This eliminated a lot of redundancies.
+
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
